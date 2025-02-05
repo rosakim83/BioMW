@@ -1,6 +1,6 @@
 
 # BioMW
-![Image](https://github.com/user-attachments/assets/7da9c62a-5ddd-42f2-b15d-54286262fe9b)
+![Image](https://github.com/user-attachments/assets/bf8a6101-2fb3-4835-8640-3e379e8672e8)
 
 ## Abstract
 Real-time mind wandering (MW) detection and intervention can enhance mindfulness by helping individuals maintain focus. This study introduces BioMW, a robot-based, non-invasive model that estimates MW levels using biometric data, including facial expressions, posture, and eye-aspect ratio, and then provides appropriate interventions. We conducted a user study under three different intervention conditions: the proposed robot-assisted, audio-based, and no intervention. Results indicate that robot-based feedback reduces MW, as reflected in lower EEG-based Theta/Alpha Ratio (TAR), improving mindfulness engagement. Time-series variation of the concentration index further demonstrates that real-time interventions help refocus attention during mindfulness. While the effectiveness of interventions varies based on individual mindfulness capacity, as measured by Mindful Attention Awareness Scale (MAAS), robotic feedback generally provides a structured and interactive method to sustain attention. These findings highlight the potential of robotic systems in mindfulness training and suggest the need for personalized intervention strategies tailored to different user experience levels.
